@@ -6,3 +6,5 @@ ruby "2.0.0"
 
 # Bunny
 gem 'bunny'
+
+gem 'rack'
