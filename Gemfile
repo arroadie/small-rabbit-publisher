@@ -8,3 +8,5 @@ ruby "2.0.0"
 gem 'bunny'
 
 gem 'rack'
+
+gem 'oj', '2.5.3'
