@@ -5,8 +5,8 @@ source 'https://rubygems.org'
 ruby "2.0.0"
 
 # Bunny
-gem 'bunny'
+gem 'bunny', '1.1.2'
 
 gem 'rack'
 
-gem 'oj', '2.5.3'
+gem 'oj', '2.5.4'
